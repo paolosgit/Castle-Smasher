@@ -1,0 +1,21 @@
+# ninja log v5
+556	581	1681457597442634173	whatever	88894b2ac64a8615
+2	366	1681457597226076323	CMakeFiles/whatever.dir/main.cpp.o	9ea571af784d9c5a
+2	273	1681457597132501563	CMakeFiles/whatever.dir/LinkedList.cpp.o	41cd0253b191d8d7
+3	331	1681457597187227159	CMakeFiles/whatever.dir/Background.cpp.o	6306b425830d0743
+3	364	1681457597224296623	CMakeFiles/whatever.dir/CastleAndCharlie.cpp.o	51275e0d4fa68113
+3	320	1681457597177438952	CMakeFiles/whatever.dir/Charlie.cpp.o	bb57f60cda8eb86f
+320	555	1681457597415279292	CMakeFiles/whatever.dir/Play.cpp.o	875006358c152bc1
+3	358	1681457597217929275	CMakeFiles/whatever.dir/SandCastle.cpp.o	df3ea392727162b5
+273	516	1681457597375999713	CMakeFiles/whatever.dir/Dave.cpp.o	cc08c55994768c9d
+1	291	1681457792446107748	CMakeFiles/CastleSmasher.dir/LinkedList.cpp.o	b03e0f1b637c1e28
+1	329	1681457792483955042	CMakeFiles/CastleSmasher.dir/Background.cpp.o	122647a97f9e3315
+1	335	1681457792495252951	CMakeFiles/CastleSmasher.dir/SandCastle.cpp.o	bd807c686460df71
+1	356	1681457792515342614	CMakeFiles/CastleSmasher.dir/Charlie.cpp.o	e6e7e3706e2043a1
+1	394	1681457792555941479	CMakeFiles/CastleSmasher.dir/CastleAndCharlie.cpp.o	14b02c72b1da89ca
+0	397	1681457792559343464	CMakeFiles/CastleSmasher.dir/main.cpp.o	cf1ba80715cbe806
+292	548	1681457792709730769	CMakeFiles/CastleSmasher.dir/Dave.cpp.o	c531eda84bb7074d
+330	583	1681457792744013411	CMakeFiles/CastleSmasher.dir/Play.cpp.o	68999f651537b177
+583	612	1681457792775946689	CastleSmasher	6eba53112beeb40f
+2	281	1681457995518869271	CMakeFiles/CastleSmasher.dir/main.cpp.o	cf1ba80715cbe806
+281	310	1681457995549483763	CastleSmasher	6eba53112beeb40f

@@ -1,0 +1,3 @@
+/Users/paolooctoman/CLionProjects/CastleSmasher/cmake-build-debug/CMakeFiles/CastleSmasher.dir
+/Users/paolooctoman/CLionProjects/CastleSmasher/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/paolooctoman/CLionProjects/CastleSmasher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
